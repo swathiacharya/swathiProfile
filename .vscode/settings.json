@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/d36b3fac-b0c3-4660-bd15-69353578df4b/resourceGroups/Test-1/providers/Microsoft.Web/sites/Suk",
+    "appService.deploySubpath": "src"
+}

@@ -48,7 +48,7 @@ export class AppComponent {
       "subname": "Machine Learning",
       "date": " Dec,2021-Present",
 
-      "languageTool": "Mathlab"
+      "languageTool": "Python, Flask"
     },
 
     {
@@ -99,8 +99,8 @@ export class AppComponent {
   article: any[] = [
     
     {
-      "name": "Sahyadri Spring E-Magazine - 2020",
-      "link": "https://sahyadri.edu.in/newcampusbuzz/emagazine/FINAL%20COPY%20OF%20E-Magazine%202020.pdf"
+      "name": "Registration Form using Angular and MySQL",
+      "link": "https://acharyaswathi999.medium.com/registration-form-using-angular-and-mysql-fbffc31afb2a"
     },
     {
       "name": "Sahyadri Spring E-Magazine - 2020",
